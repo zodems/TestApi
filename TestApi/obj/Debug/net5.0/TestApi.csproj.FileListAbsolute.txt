@@ -25,3 +25,4 @@ C:\Users\ayhancicek\source\repos\TestApi\TestApi\obj\Debug\net5.0\TestApi.dll
 C:\Users\ayhancicek\source\repos\TestApi\TestApi\obj\Debug\net5.0\ref\TestApi.dll
 C:\Users\ayhancicek\source\repos\TestApi\TestApi\obj\Debug\net5.0\TestApi.pdb
 C:\Users\ayhancicek\source\repos\TestApi\TestApi\obj\Debug\net5.0\TestApi.genruntimeconfig.cache
+C:\Users\ayhancicek\source\repos\TestApi\TestApi\obj\Debug\net5.0\TestApi.csproj.AssemblyReference.cache
